@@ -136,7 +136,7 @@ Your contributions make `stringify` better!
 
 If you encounter any issues, or if you'd like to request updates or contribute to the project, please feel free to reach out.
 
-**Name**: Sanjay Jinjala  
+**Name**: Sanjay Jinjala
 **Email**: [sdjinjala@gmail.com](mailto:sdjinjala@gmail.com)
 
 For bug reports or feature requests, please create an issue in the repository.
@@ -145,4 +145,4 @@ For bug reports or feature requests, please create an issue in the repository.
 
 ### License
 
-This project is licensed under the [GNU General Public License (GPL) v3.0](https://www.gnu.org/licenses/gpl-3.0.html). Please refer to the `LICENSE` file for further details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the `LICENSE` file for further details.
